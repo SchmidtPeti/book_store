@@ -1,8 +1,11 @@
 import React from 'react';
+import SignIn from '../../components/signin/sign-in.component';
 
 const SignInAndSignOut = () =>{
   return(
-      <h1>Sign in</h1>
+      <div className={'sign-and-sign-up'}>
+          <SignIn/>
+      </div>
   )
 };
 export default SignInAndSignOut;
