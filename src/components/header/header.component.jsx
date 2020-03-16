@@ -20,7 +20,7 @@ const Header = ({currentUser}) =>{
                         </div>
                     ) :
                     (
-                        <Link to={'/signup'} className={'option'}>
+                        <Link to={'/signin'} className={'option'}>
                             Sign in
                         </Link>
                         )
