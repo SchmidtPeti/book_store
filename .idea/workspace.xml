@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6c9c0c9-c61d-4bdb-978e-79f881682c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-out/sign-in-and-sign-up.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/firebase/firebase.utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/signin/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signin/sign-in.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/signin/sign-in.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signin/sign-in.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-out/sign-in-and-sign-out.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-out/sign-in-and-sign-out.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-out/sign-in-and-sign-out.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/signin/sign-in.component.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="430">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -133,8 +124,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+            <state relative-caret-position="327">
+              <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -237,8 +228,8 @@
         <option value="$PROJECT_DIR$/src/pages/sign-in-and-sign-out/sign-in-and-sign-out.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/signin/sign-in.styles.scss" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/signin/sign-in.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" />
+        <option value="$PROJECT_DIR$/src/components/signin/sign-in.component.jsx" />
       </list>
     </option>
   </component>
@@ -435,12 +426,12 @@
       <workItem from="1583332917660" duration="4109000" />
       <workItem from="1583526482106" duration="5465000" />
       <workItem from="1583736843792" duration="11522000" />
-      <workItem from="1584363178050" duration="1654000" />
+      <workItem from="1584363178050" duration="2062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23803000" />
+    <option name="totallyTimeSpent" value="24211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -695,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/signin/sign-in.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="430">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -705,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+        <state relative-caret-position="327">
+          <caret line="39" column="56" lean-forward="true" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
