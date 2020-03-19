@@ -13,6 +13,8 @@
   font-weight: bolder;
   border: none;
   cursor: pointer;
+  text-align: center;
+  margin: 30px;
 
   &:hover {
     background-color: white;
@@ -23,6 +25,7 @@
     background-color: blue;
     &:hover{
       background-color: darkblue;
+      color: white;
     }
   }
 }
